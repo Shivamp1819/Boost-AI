@@ -30,7 +30,7 @@ app.use(
       process.env.CLIENT_URL, 
       "http://localhost:5173", 
       "https://chatgpt-clone-production.up.railway.app",
-      "https://boost-ai-three.vercel.app/" // Replace with your actual frontend Railway URL
+      "https://boost-ai-three.vercel.app" // Replace with your actual frontend Railway URL
     ],
     credentials: true, 
   })
